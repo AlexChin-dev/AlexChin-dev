@@ -1,4 +1,3 @@
-# AlexChin
 <div id="header" align="center">
 
 <h3>
