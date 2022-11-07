@@ -18,7 +18,7 @@ I am a Logistic Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I’m working as a Supply Planner and contributing to developped a passion for using Data Science and Python programming to optimize Supply Chain Operations.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](postnikovalexander)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([postnikovalexander](https://www.linkedin.com/mwlite/in/postnikovalexander))
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
